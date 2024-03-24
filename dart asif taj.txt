@@ -1,0 +1,132 @@
+
+Certainly! Let's create a program that checks whether a given year is a leap year or not. 
+In the Gregorian calendar, a leap year occurs every 4 years, except for years that are divisible by 100 but not divisible by 400.
+ Here's a Dart program for this:
+
+
+	Assignments
+Write Program to Add Two Integers and store theri sum in the third variable.
+Write Program to Add Two Integers.
+Write Program to Multiply two Floating Point Numbers.
+Write Program to perform all arithmetic operations.
+Write Program to Swap Values of Two Variables
+Write Program to Swap Values of Three variables like that.
+Input : ( x = 3 , y = 4 , z = 5)
+output : (x = 4 , y = 5 , z = 3)
+Write Program to convert feet to metres and metres into KM.
+Write Program to convert celcius to farenheit 
+Write Program to convert farenheit to celcius.
+Write Program to find the Size of data types.
+Write Program to Calculate Area of Circle. 
+Write Program to Calculate Area of Square.
+Write Program to Calculate Area of Rectangle.
+Write Program to convert days to years, weeks and days
+
+Part-10
+Dart String data type with examples
+https://youtu.be/itjZmEKCyaM 
+Part-11
+Dart boolean data type with examples
+https://youtu.be/CDItfMkxzSc
+Part-12
+Var data type(a unique data type)
+This data type checks itself and decides its data type during runtime based on the initial value we will store into this. If we store an integer it’s data type will be int if we store double its data type will be double and for list it will be list. 
+Part-12 Var Data Type || Dart Programming Tutorials in Hindi/Urdu
+Part-13-1-2
+Reading input from user or console 
+In this video i will teach you how you can take input from user and also how to take dynamic input form user or variable data type specific input
+Part 13  https://youtu.be/pLKtDl1JJGo
+Part 13-1 https://youtu.be/pLKtDl1JJGo
+In this part 13-1 i we will do practise based on what we have learned in part 13. We will solve three real world problems. 
+How to convert feet into metre based on user input
+How to convert Celsius temperature into fahrenheit temperature
+Part-14
+Dart relation and equality operator
+Operator <, >, =,== , !
+Part-14 Dart Relational & Equality Operator || Dart Programming Tutorials in Hindi/Urdu
+Part-15
+Dart logical operator
+Logical operators are &&, || and ! operator
+Part-15 Dart Logical Operator || Dart Programming Tutorials in Hindi/Urdu	
+Part-16
+If statement
+Part-16 Dart If Statement || Dart Programming Tutorials in Hindi/Urdu
+
+Loops Assignments: 
+Write a program to print numbers from 1 to 10.
+Write a program to calculate the sum of the first 10 natural numbers.
+Write a program that prompts the user to input a positive integer. It should then print the multiplication table of that number. 
+Write a program to find the factorial value of any number entered through the keyboard. 
+Two numbers are entered through the keyboard. Write a program to find the value of one number raised to the power of another.
+Write a program that reads a set of integers, and then prints the sum of the even and odd integers.
+Write a program that prompts the user to input a positive integer. It should then output a message indicating whether the number is a prime number. 
+Write a program to calculate HCF of Two given numbers.
+Write a program to enter the numbers till the user wants and at the end the program should display the largest and smallest numbers entered.
+Write a  program to find the frequency of each digit in a given integer.
+Write a program to print following :
+ 
+i)
+**********
+**********
+**********
+**********
+ii)
+*
+**
+***
+****
+*****
+iii)
+    	*
+      **
+    ***
+  ****
+*****
+ 
+iv)
+        *
+      ***
+    *****
+  *******
+*********
+v)
+        1
+      222
+    33333
+  4444444
+555555555
+vi)
+        1
+      212
+    32123
+  4321234
+543212345
+ 
+
+
+List:
+
+
+
+Exploring more about different data type of variables boolean, cha , strings and practising them
+Increment, decrement operations based on our learning
+String variable and its properties a dig down intro strings(Most important concepts)
+What is string 
+String concatenation
+String with regular expression
+How string can work as a list and how we can replace data in string.
+We will cover rest of related details in this tutorial
+
+Practising what we have learn so far to improve our logic building by solving real world problem (Creating temperature converter application) and calculator app
+ How to take input from users and perform different actions based on what we have learned so far and print them.
+Assignment operator <,>,== ,= , !, => , <=
+Logical operator with examples e.d and, or and not operator
+ If statement, if else statement with example to check if number is even or not, 
+Nested if else statement 
+Practising if, else statement with example i.g score calculation, calculator, electricity billing calculator to improve our logic building. 
+Switch statement
+Loop and practising loop with different examples
+While and do while loop
+Lists
+Hash maps 
+Functions, void and return type with Future function
